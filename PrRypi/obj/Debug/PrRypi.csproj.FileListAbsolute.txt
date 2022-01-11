@@ -1,0 +1,12 @@
+C:\Users\UnderKo\source\repos\PypiRc\PrRypi\bin\Debug\PrRypi.exe.config
+C:\Users\UnderKo\source\repos\PypiRc\PrRypi\bin\Debug\PrRypi.exe
+C:\Users\UnderKo\source\repos\PypiRc\PrRypi\bin\Debug\PrRypi.pdb
+C:\Users\UnderKo\source\repos\PypiRc\PrRypi\obj\Debug\PrRypi.csproj.SuggestedBindingRedirects.cache
+C:\Users\UnderKo\source\repos\PypiRc\PrRypi\obj\Debug\PrRypi.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\PypiRc\PrRypi\obj\Debug\PrRypi.exe
+C:\Users\UnderKo\source\repos\PypiRc\PrRypi\obj\Debug\PrRypi.pdb
+C:\Users\UnderKo\source\repos\PypiRc\Compile\PrRypi.exe.config
+C:\Users\UnderKo\source\repos\PypiRc\Compile\PrRypi.exe
+C:\Users\UnderKo\source\repos\PypiRc\Compile\PrRypi.pdb
+C:\Users\UnderKo\source\repos\PypiRc\PrRypi\obj\Debug\PrRypi.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\PypiRc\PrRypi\obj\Debug\PrRypi.csproj.CopyComplete

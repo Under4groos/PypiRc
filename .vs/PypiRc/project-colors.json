@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fba300ed-9e09-4b6c-997f-3544df4ecc05": {
+      "ProjectGuid": "fba300ed-9e09-4b6c-997f-3544df4ecc05",
+      "DisplayName": "PypiRc",
+      "ColorIndex": 0
+    },
+    "17d06fbf-f4a6-4fe5-8020-c9e5b938b6c1": {
+      "ProjectGuid": "17d06fbf-f4a6-4fe5-8020-c9e5b938b6c1",
+      "DisplayName": "PrRypi",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "1db824c2-95e2-4caf-95f7-8c26888f05ad": {
+      "ProjectGuid": "1db824c2-95e2-4caf-95f7-8c26888f05ad",
+      "DisplayName": "PrLib",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

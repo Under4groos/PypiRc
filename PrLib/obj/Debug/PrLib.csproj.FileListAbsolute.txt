@@ -1,0 +1,6 @@
+C:\Users\UnderKo\source\repos\PypiRc\PrLib\obj\Debug\PrLib.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\PypiRc\PrLib\obj\Debug\PrLib.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\PypiRc\Compile\PrLib.dll
+C:\Users\UnderKo\source\repos\PypiRc\Compile\PrLib.pdb
+C:\Users\UnderKo\source\repos\PypiRc\PrLib\obj\Debug\PrLib.dll
+C:\Users\UnderKo\source\repos\PypiRc\PrLib\obj\Debug\PrLib.pdb

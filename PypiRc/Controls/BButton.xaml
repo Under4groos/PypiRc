@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="PypiRc.BButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PypiRc"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,2,0,2"
+             >
+    <UserControl.Resources>
+        
+    </UserControl.Resources>
+    <Grid>
+        <Border>
+            <Border.Style>
+                <Style TargetType="Border">
+                    <Setter Property="Background" Value="#2E2E2E"></Setter>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#B2212121"></Setter>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Border.Style>
+            <Label x:Name="label_c" Content="content content" Foreground="White"></Label>
+        </Border>
+
+    </Grid>
+</UserControl>
